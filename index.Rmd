@@ -1,12 +1,6 @@
 ---
 title: "Toby's Collaboration Page for NTRES 6940"
-author: "Toby J Holda"
-date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
+output: html_document
 
 ---
 
