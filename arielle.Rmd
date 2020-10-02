@@ -1,0 +1,12 @@
+---
+title: "Arielle"
+output: html_document
+---
+
+Here is some information about me:
+
+* I like hiking in Ithaca's local bogs  
+* I play the piano, guitar and accordion  
+  + to varying degrees of proficiency 
+* I read poetry collections before falling asleep  
+
