@@ -16,3 +16,7 @@ output: html_document
   
 ![Chicago-style pizza](https://giordanos.com/wp-content/uploads/Hero-image_1210-v2.jpg){width=50%}
   
+
+
+Find a similar page here:
+[Twin Webpage](ariellerjohnson.github.io/assignment-2-arj66/Toby.html){target="_blank" rel="noopener"}
