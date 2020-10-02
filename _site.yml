@@ -2,6 +2,6 @@ output_dir: "."
 navbar:
   left:
     - text: "Home"
-      href: index.html
+      href: index.Rmd
     - text: "About Toby"
-      href: Toby.html
+      href: Toby.Rmd
