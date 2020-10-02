@@ -1,7 +1,0 @@
-output_dir: "."
-navbar:
-  left:
-    - text: "Home"
-      href: index.Rmd
-    - text: "About Toby"
-      href: Toby.Rmd
