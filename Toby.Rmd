@@ -19,4 +19,4 @@ output: html_document
 
 
 Find a similar page here:
-<ariellerjohnson.github.io/assignment-2-arj66/Toby.html>{target="_blank" rel="noopener"}
+[Twin Webpage](http://ariellerjohnson.github.io/assignment-2-arj66/Toby.html){target="_blank" rel="noopener"}
