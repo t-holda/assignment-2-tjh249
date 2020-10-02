@@ -1,0 +1,24 @@
+---
+title: "Toby"
+author: "Toby J Holda"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+- PhD Candidate in Natural Resources at Cornell University
+- Has spent approximately 150 days onboard Great Lakes EPA R/V *Lake Guardian*
+- Is fond of Chicago-style pizza and any form of ice cream
+
+### *Some relevant pictures:*
+![Cornell University](https://www.engineering.cornell.edu/sites/default/files/styles/width_700/public/departments/admissions/Images/campus_1400x480.jpg){width=100%}
+  
+  
+![EPA R/V *Lake Guardian*](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8eBSD4ossztT1jsaZxUs0wTQO_JoNo2G9rA&usqp=CAU){width=100%}
+  
+  
+![Chicago-style pizza](https://giordanos.com/wp-content/uploads/Hero-image_1210-v2.jpg){width=50%}
+  
