@@ -4,7 +4,8 @@ output: html_document
 
 ---
 
-- Webpage Author: [Toby Holda](https://www.github.com/t-holda){target="_blank" rel="noopener"}
-- Webpage Collaborator: [Arielle Johnson](https://www.github.com/ariellerjohnson){target="_blank" rel="noopener"}
+- Webpage Author: [Toby Holda](https://www.github.com/t-holda){target="_blank" rel="noopener"}  
+
+- Webpage Collaborator: [Arielle Johnson](https://www.github.com/ariellerjohnson){target="_blank" rel="noopener"}  
 
 ![A quiet morning at an Ithacan pond](IMG_8018 (2).JPG){width=100%}
