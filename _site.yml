@@ -1,6 +1,5 @@
-name: "Toby's Collaboration Page for NTRES 6940e"
+output_dir: "."
 navbar:
-  title: "Toby's R Collaboration Website"
   left:
     - text: "Home"
       href: index.html
