@@ -3,10 +3,29 @@ title: "Arielle"
 output: html_document
 ---
 
-Here is some information about me:
+### Here is some information about me:
 
-* I like hiking in Ithaca's local bogs  
+* I like hiking in Ithaca's local bogs 
+
+<center>
+
+![OD von Engeln Preserve](https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/CJG_8840.jpg){width=50%}  
+
+</center>
+
 * I play the piano, guitar and accordion  
-  + to varying degrees of proficiency 
-* I read poetry collections before falling asleep  
+  + to varying degrees of proficiency   
+    
+<center>
 
+![Accordion is underrated](https://www.arcadalive.com/wp-content/uploads/2018/08/accordion.jpg){width=50%}  
+
+</center>
+
+* I read poetry collections before falling asleep
+
+<center>
+
+![A good book I read recently](https://www.pulitzer.org/cms/sites/default/files/content/81m2-tph2bl.jpg){width=25%}  
+
+</center>
